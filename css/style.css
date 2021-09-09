@@ -1,0 +1,19 @@
+.navbar-instagram{
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+.search_box{
+  border-radius: 25px!important;
+  padding-left: 15px;
+}
+.search_box:focus{
+  outline: none;
+}
+.dropdown_box{
+  margin-left: -13px;
+  background-color: black;
+  color: white;
+  width: 100%;
+  position: absolute;
+  z-index: 10;
+}
